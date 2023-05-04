@@ -1,0 +1,15 @@
+{
+  "client_id": "77598031-c565-4406-b2db-cc2c5e9e4695",
+  "authorization_user_agent": "DEFAULT",
+  "redirect_uri": "msauth://it.paxol.msaltest/h0PErUaexXBbPZ53W8nwPeBWIYU%3D",
+  "account_mode" : "SINGLE",
+  "authorities": [
+    {
+      "type": "AAD",
+      "audience": {
+        "type": "AzureADMyOrg",
+        "tenant_id": "7ef70729-c970-41dd-a2aa-9c96d3f382e5"
+      }
+    }
+  ]
+}
